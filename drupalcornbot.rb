@@ -115,7 +115,7 @@ class DrupalCornCamp
   def execute(m)
     m.reply "DrupalCorn Camp is a Drupal Camp, held each year somewhere in the state of Iowa."
     m.reply "Latest camp:"
-    m.reply "http://2013.drupalcorn.org"
+    m.reply "http://2015.drupalcorn.org"
   end
 end
 
